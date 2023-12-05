@@ -18,5 +18,7 @@
     "psr-4": {
       "MP\\Yii2DeleteRelations\\": "src/"
     }
-  }
+  },
+  "minimum-stability": "stable",
+  "prefer-stable": true
 }
